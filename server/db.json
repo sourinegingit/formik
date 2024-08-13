@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "negin",
+      "email": "nsouri7979@gmail.com",
+      "phoneNumber": "09915689890",
+      "password": "123456",
+      "passwordConfirmation": "123456",
+      "gender": "1"
+    }
+  ]
+}
